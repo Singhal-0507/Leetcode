@@ -42,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Singhal-0507/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Singhal-0507/Leetcode/tree/master/0090-subsets-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Singhal-0507/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Singhal-0507/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Singhal-0507/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Singhal-0507/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
