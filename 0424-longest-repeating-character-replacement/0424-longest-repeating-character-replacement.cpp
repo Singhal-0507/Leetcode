@@ -7,7 +7,7 @@ public:
             m[s[j]]++;
             maxf = max(maxf,m[s[j]]);
             count = j-i+1 - maxf;
-            while(count > k){    
+            if(count > k){    
                 m[s[i]]-=1;    
                 i++;
                 count =j-i+1-maxf;
