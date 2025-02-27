@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Singhal-0507/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Singhal-0507/Leetcode/tree/master/0090-subsets-ii) |
+| [0940-fruit-into-baskets](https://github.com/Singhal-0507/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singhal-0507/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/Singhal-0507/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-fruit-into-baskets](https://github.com/Singhal-0507/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singhal-0507/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Singhal-0507/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-fruit-into-baskets](https://github.com/Singhal-0507/Leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
