@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Singhal-0507/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/Singhal-0507/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/Singhal-0507/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Singhal-0507/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Singhal-0507/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Singhal-0507/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
