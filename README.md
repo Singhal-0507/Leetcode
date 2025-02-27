@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Singhal-0507/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Singhal-0507/Leetcode/tree/master/0090-subsets-ii) |
+| [0485-max-consecutive-ones](https://github.com/Singhal-0507/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/Singhal-0507/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
