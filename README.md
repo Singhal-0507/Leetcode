@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Singhal-0507/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Singhal-0507/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Singhal-0507/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Singhal-0507/Leetcode/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/Singhal-0507/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Singhal-0507/Leetcode/tree/master/0724-find-pivot-index) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Singhal-0507/Leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Singhal-0507/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Singhal-0507/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Singhal-0507/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
