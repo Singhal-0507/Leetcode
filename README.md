@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Singhal-0507/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Singhal-0507/Leetcode/tree/master/0724-find-pivot-index) |
 | [0940-fruit-into-baskets](https://github.com/Singhal-0507/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Singhal-0507/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Singhal-0507/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Singhal-0507/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Singhal-0507/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Singhal-0507/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Singhal-0507/Leetcode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Singhal-0507/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
