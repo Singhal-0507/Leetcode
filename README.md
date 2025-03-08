@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Singhal-0507/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Singhal-0507/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Singhal-0507/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Singhal-0507/Leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Singhal-0507/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Singhal-0507/Leetcode/tree/master/0051-n-queens) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Singhal-0507/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Singhal-0507/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Singhal-0507/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Singhal-0507/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Singhal-0507/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Singhal-0507/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Singhal-0507/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Singhal-0507/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Singhal-0507/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Singhal-0507/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Singhal-0507/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
